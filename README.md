@@ -1,2 +1,2 @@
 # Ajax
-AJAX in .NET MVC
+AJAX in ASP.NET MVC
